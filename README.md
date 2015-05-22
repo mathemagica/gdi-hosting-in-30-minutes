@@ -1,31 +1,13 @@
-GDI Core Introduction to Web Concepts
+GDI Hosting in 30 Minutes
 ======================
 
-This is the official Girl Develop It Core Intro Web Concepts course. Material was originally developed by Matt Torbin and Elise Wei.
-
-The course is meant to be taught in a single two-hour workshop. 
+This course is intended to be an addendum to the official Girl Develop It Intro to HTML/CSS course. Material here was developed by Ann Lewis, with some slides borrowed from the Core Intro Web Concepts course. 
 
 ## Suggested course description is below:
 
-*Not sure how the Internet works?*
+*So, you just built your first website in Intro to HTML/CSS class! Now, how can you make this website accessible to other people?*
 
-*Want to build a cool website, but can’t decide what language to use?*
-
-*Tired of techies throwing around acronyms that make your head spin?*
-
-In this class, we will walk through the fundamentals of web development in layman terms. While we won't be writing code, we'll take you through various components of the web and how they work together. If you want to learn how to communicate better with your technical team or friends, this course is for you. Topics include but are not limited to:
-
-*   What is the World Wide Web?
-*   Where are web site files generally stored?
-*   What is the difference between a client and a server?
-*   Which programming languages are compiled on a server and which are compiled in a web browser?
-*   What do you need to know before building a web site?
-*   What language should you use and what are the differences?
-*   What tools do you need to develop a web site?
-*   Who does what on a typical web development team?
-*   What is Web 2.0 and the Cloud?
-
-This class is for people with little to no technical experience.
+In this class, we will walk through the basics of hosting: what it means, how to do it, and the options and tradeoffs associated with different hosting providers. At the very end of the class, we'll walk you through uploading your html and css files to dropbox.
 
 ## Theme customization
 
